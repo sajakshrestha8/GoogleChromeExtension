@@ -4,9 +4,9 @@
   "version": "1.0",
   "description": "This is my extension",
   "action": {
-    "default_popup": "hello.html"
+    "homepage": "./hello.html"
   },
-  "permissions": [],
+  "permissions": ["activeTab","https://example.com/*"],
   "host_permissions": [
     "http://*/*",
     "https://*/*"

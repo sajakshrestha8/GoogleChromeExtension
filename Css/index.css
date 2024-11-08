@@ -1,0 +1,19 @@
+body{
+    height: 100px;
+    width: 300px;
+    background-color: #E5EAF5;
+    padding: 10px;
+}
+
+a{
+    height: auto;
+    width: auto;
+    border-radius: 3px;
+    border: none;
+    color: white;
+    background-color: #4681f4;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
